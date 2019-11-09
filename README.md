@@ -8,3 +8,7 @@ Simply run pong_main.py
 # Controls
 - Left Player: w and s
 - Right Player: Up arrow and Down arrow
+
+
+# Screenshot
+<img src="https://github.com/zed1025/pong-game/blob/master/ss.png">
